@@ -1,0 +1,264 @@
+
+a[href$=".pdf"]:before {
+    background-image: url('/assets/img/doctype/pdf-type.png');
+    background-size: 100%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    content: "";
+    position: relative;
+    top: 10px;
+}
+
+a[href$=".jpg"]:before {
+    background-image: url('/assets/img/doctype/jpg-type.png');
+    background-size: 100%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    content: "";
+    position: relative;
+    top: 10px;
+}
+
+a[href$=".png"]:before {
+    background-image: url('/assets/img/doctype/png-type.png');
+    background-size: 100%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    content: "";
+    position: relative;
+    top: 10px;
+}
+
+a[href$=".gif"]:before {
+    background-image: url('/assets/img/doctype/gif-type.png');
+    background-size: 100%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    content: "";
+    position: relative;
+    top: 10px;
+}
+
+a[href$=".ico"]:before {
+    background-image: url('/assets/img/doctype/ico-type.png');
+    background-size: 100%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    content: "";
+    position: relative;
+    top: 10px;
+}
+
+a[href$=".bmp"]:before {
+    background-image: url('/assets/img/doctype/bmp-type.png');
+    background-size: 100%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    content: "";
+    position: relative;
+    top: 10px;
+}
+
+a[href$=".wav"]:before {
+    background-image: url('/assets/img/doctype/wav-type.png');
+    background-size: 100%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    content: "";
+    position: relative;
+    top: 10px;
+}
+
+a[href$=".mp3"]:before {
+    background-image: url('/assets/img/doctype/mp3-type.png');
+    background-size: 100%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    content: "";
+    position: relative;
+    top: 10px;
+}
+
+a[href$=".mp4"]:before {
+    background-image: url('/assets/img/doctype/mp4-type.png');
+    background-size: 100%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    content: "";
+    position: relative;
+    top: 10px;
+}
+
+a[href$=".mpeg"]:before {
+    background-image: url('/assets/img/doctype/mpeg-type.png');
+    background-size: 100%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    content: "";
+    position: relative;
+    top: 10px;
+}
+
+a[href$=".svg"]:before {
+    background-image: url('/assets/img/doctype/svg-type.png');
+    background-size: 100%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    content: "";
+    position: relative;
+    top: 10px;
+}
+
+a[href$=".txt"]:before {
+    background-image: url('/assets/img/doctype/txt-type.png');
+    background-size: 100%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    content: "";
+    position: relative;
+    top: 10px;
+}
+
+a[href$=".doc"]:before {
+    background-image: url('/assets/img/doctype/doc-type.png');
+    background-size: 100%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    content: "";
+    position: relative;
+    top: 10px;
+}
+
+a[href$=".rar"]:before {
+    background-image: url('/assets/img/doctype/rar-type.png');
+    background-size: 100%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    content: "";
+    position: relative;
+    top: 10px;
+}
+
+a[href$=".xls"]:before {
+    background-image: url('/assets/img/doctype/xls-type.png');
+    background-size: 100%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    content: "";
+    position: relative;
+    top: 10px;
+}
+
+a[href$=".ppt"]:before {
+    background-image: url('/assets/img/doctype/ppt-type.png');
+    background-size: 100%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    content: "";
+    position: relative;
+    top: 10px;
+}
+
+a[href$=".zip"]:before {
+    background-image: url('/assets/img/doctype/zip-type.png');
+    background-size: 100%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    content: "";
+    position: relative;
+    top: 10px;
+}
+
+a[href$=".html"]:before {
+    background-image: url('/assets/img/doctype/html-type.png');
+    background-size: 100%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    content: "";
+    position: relative;
+    top: 10px;
+}
+
+a[href$=".docx"]:before {
+    background-image: url('/assets/img/doctype/docx-type.png');
+    background-size: 100%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    content: "";
+    position: relative;
+    top: 10px;
+}
+
+a[href$=".tar"]:before {
+    background-image: url('/assets/img/doctype/tar-type.png');
+    background-size: 100%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    content: "";
+    position: relative;
+    top: 10px;
+}
+
+a[href$=".7z"]:before {
+    background-image: url('/assets/img/doctype/7z-type.png');
+    background-size: 100%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    content: "";
+    position: relative;
+    top: 10px;
+}
+
+a[href$=".apk"]:before {
+    background-image: url('/assets/img/doctype/apk-type.png');
+    background-size: 100%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    content: "";
+    position: relative;
+    top: 10px;
+}
+
+a[href$=".exe"]:before {
+    background-image: url('/assets/img/doctype/exe-type.png');
+    background-size: 100%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    content: "";
+    position: relative;
+    top: 10px;
+}
+
+a[href$=".iso"]:before {
+    background-image: url('/assets/img/doctype/iso-type.png');
+    background-size: 100%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    content: "";
+    position: relative;
+    top: 10px;
+}
