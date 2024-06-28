@@ -9,5 +9,4 @@ RU
       (либо поместить папку Doctype в любое удобное место, но тогда придется в файле Doctype менять ссылки на картинки)
 
 Пример работы на сайте:
-
-      ![изображение](https://github.com/So0vey/Css-icon-placer-for-links-on-documents/assets/127132701/e02d57ca-7259-4473-8b9e-04517935650e)
+ ![изображение](https://github.com/So0vey/Css-icon-placer-for-links-on-documents/assets/127132701/e02d57ca-7259-4473-8b9e-04517935650e)
